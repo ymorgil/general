@@ -1,7 +1,7 @@
 
 
  
-Tabla de contenido
+Tabla de contenidoss
 INSTALACIÓN DE VEYON	2
 ¿QUÉ HACER SI WINGET NO INSTALA VEYON?	2
 CONFIGURACIÓN DEL VEYON ALUMNADO	3
