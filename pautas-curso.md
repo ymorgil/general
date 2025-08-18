@@ -25,11 +25,11 @@
 # **📝1. Competencias profesionales, personales y sociles (Notas)**
 Durante el desarrollo del módulo se tendrán en cuenta los siguientes puntos para la calificación del módulo, algunos de ellos pueden anular la nota del supuesto a un 0 y otros pueden penalizar con un -0.5.
 
->1. `Faltas de respeto`: Las faltas al respecto tanto al profesorado como al resto del alumnado, tanto personales, como al derecho al estudio serán tenidas en cuenta, llegando a ser motivo de parte disciplinario si se repiten reiteradas veces. (En otras palabras, cada uno tiene su nombre y será ese el que se utilice en el aula).
+1. `Faltas de respeto`: Las faltas al respecto tanto al profesorado como al resto del alumnado, tanto personales, como al derecho al estudio serán tenidas en cuenta, llegando a ser motivo de parte disciplinario si se repiten reiteradas veces. (En otras palabras, cada uno tiene su nombre y será ese el que se utilice en el aula).
 
->2. `Grabaciones o difusiones de imágenes`: Esto puede considerarse una falta leve las cuales se tendrán en cuenta y serán aplicadas las medidas correctivas correspondientes.
+2. `Grabaciones o difusiones de imágenes`: Esto puede considerarse una falta leve las cuales se tendrán en cuenta y serán aplicadas las medidas correctivas correspondientes.
 
->3. `Material`: Las aulas talleres están compuestos por diferentes tipos de equipos y materiales electrónicos, nadie debe manipularlo sin previa autorización del profesorado. Esto incluye abrir carcasas de los equipos y modificar las torres o pantallas de ubicación en el aula.
+3. `Material`: Las aulas talleres están compuestos por diferentes tipos de equipos y materiales electrónicos, nadie debe manipularlo sin previa autorización del profesorado. Esto incluye abrir carcasas de los equipos y modificar las torres o pantallas de ubicación en el aula.
 
 >4. `Uso indebido`: Los equipos informáticos del aula son para uso educativo exclusivamente. Además, los equipos personales del alumnado (portátiles y móviles) mientras estén en el aula se hará un uso educativo, es decir, que queda prohibido jugar, ver series, deportes… Se pueden ver videos de YouTube de cualquier temática relacionada con la informática excluyendo los videojuegos.
 
