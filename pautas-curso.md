@@ -8,7 +8,7 @@
 - [**🛠️2. Configuraciones básicas**](#️2-configuraciones-básicas)
   - [**Configuraciones Hardware**](#configuraciones-hardware)
   - [**Configuraciones Software**](#configuraciones-software)
-    - [Configuraciones básicas en Windows](#configuraciones-básicas-en-windows)
+    - [**Configuraciones básicas en Windows**](#configuraciones-básicas-en-windows)
       - [Paso 1 Actualizar sistemas](#paso-1-actualizar-sistemas)
     - [Paso 2 Actualizar Guest Additions](#paso-2-actualizar-guest-additions)
     - [Paso 3: Prompt en color](#paso-3-prompt-en-color)
@@ -96,7 +96,7 @@ Las configuraciones de las máquinas dependen de los recursos que tenga el equip
 
 Una vez tengamos las configuraciones hardware realizadas pasaremos a descargarnos las imágenes iso, de los diferentes sistemas operativos, las agregamos a la unidad óptica e iniciamos la máquina virtual siguiendo el asistente de instalación. En este apartado es importante poner como nombre de usuario el nombre de alumnado, y como nombre de equipo la clave del sistema operatico y el nombre del alumnado.
 
-### Configuraciones básicas en Windows
+### **Configuraciones básicas en Windows**
 
 Las configuraciones básicas se basan en hacer los siguientes pasos en todas las máquinas, como ejemplo se van a realizar las mismas para un sistema operativo Windows 11:
 
