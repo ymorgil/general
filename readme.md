@@ -1,12 +1,8 @@
-# Repositorio general
+# Índice del repositorio general
 
-## Documentación
-
-
-
-- [Pautas del curso](./pautas-curso.md) – Breve descripción de lo que contiene.
-- [Manual Veyon](./Manual-Veyon.md) – Breve descripción de lo que contiene.
-- [Clave pública del Veyon](./ClaveVeyon_public_key.pem) – Breve descripción de lo que contiene.
-- [Documento 4](./Documento4.md) – Breve descripción de lo que contiene.
+- [Pautas del curso](./pautas_curso.md) – Apartados que se han de cumplir en la entregas de los supuesto y en las clases.
+- [Manual Veyon](./manual_veyon.md) – Configuraciones básicas del veyon.
+- [Clave pública del Veyon](./ClaveVeyon_public_key.pem) – Clave pública que ha de descargar el alumnado.
+- [configuraciones básicas de las máquinas virtuales](./configuraciones_básicas.md) – Definición de las máquinas virtuales para el curso y sus configuraciones básicas.
 
 
