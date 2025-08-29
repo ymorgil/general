@@ -33,9 +33,9 @@ Durante el desarrollo del módulo se tendrán en cuenta los siguientes apartados
 1. `Contenido`: Todo lo referente a la palabra **nombre** en los supuestos será “nombre del alumnado”, sin caracteres especiales ni tildes. Aquellos supuestos que solo contengan las capturas de la práctica sin explicaciones, faltas de respetos en alguna captura o explicación directamente serán calificadas como 0.
 
 2.  `Supuestos prácticos de aula`: Son aquellos supuestos que se desarrollarán en el aula durante la sesión de clase que cumplirán con las siguientes características:
->1. Los dispositivos electrónicos deben de estar apagados sobre la torre boca abajo. También se ha de tener un correcto orden y organización del espacio de trabajo.
->2. Antes de comenzar la prueba tienen que tener todos verificados que el veyon está en correcto funcionamiento, y que el profesor puede acceder al equipo del alumnado.
->3. Otras que estime el profesorado como no usar apuntes, internet…
+    >1. Los dispositivos electrónicos deben de estar apagados sobre la torre boca abajo. También se ha de tener un correcto orden y organización del espacio de trabajo.
+    >2. Antes de comenzar la prueba tienen que tener todos verificados que el veyon está en correcto funcionamiento, y que el profesor puede acceder al equipo del alumnado.
+    >3. Otras que estime el profesorado como no usar apuntes, internet…
 
 1.  `Scripting`: Para los scripts el alumnado se ha de crear una cuenta en www.git-hub.com en dicha cuenta ha de crear un repositorio con las siglas del módulo donde ira almacenando todos los scripts que haga durante el curso, en los apartados que se pidan script entregará el script con comentarios, capturas de la ejecución del mismo con dos ejemplos explicando lo que sucede en cada uno de ellos y enlace directo del script solicitado. Además se añadira el enlace de dicho repositorío a la wiki del CAMPUS.
 
