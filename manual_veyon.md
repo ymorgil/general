@@ -40,6 +40,7 @@ Descargar la clave pública de este mismo repositorio y agregarla en la sección
  ![alt text](img/vey04.PNG)
 
 
+:one:
 
 
 
@@ -64,7 +65,5 @@ Para ello hay que abrir la el veyon configurator y en la sección de ubicaciones
 
 
 
-![alt text](img/vey04.PNG)
-![alt text](img/vey05.PNG)
 ![alt text](img/vey06.PNG)
 ![alt text](img/vey07.PNG)
