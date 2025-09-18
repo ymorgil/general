@@ -31,7 +31,7 @@ Durante el desarrollo del módulo se tendrán en cuenta los siguientes apartados
     > - Antes de comenzar la prueba tienen que tener todos verificados que el veyon está en correcto funcionamiento, y que el profesor puede acceder al equipo del alumnado.
     > - Otras que estime el profesorado como no usar apuntes, internet…
 
-11.  `Scripting`: Para los scripts el alumnado se ha de crear una cuenta en www.git-hub.com en dicha cuenta ha de crear un repositorio con las siglas del módulo donde ira almacenando todos los scripts que haga durante el curso, en los apartados que se pidan script entregará el script con comentarios, capturas de la ejecución del mismo con dos ejemplos explicando lo que sucede en cada uno de ellos y enlace directo del script solicitado. Además se añadira el enlace de dicho repositorío a la wiki del CAMPUS.
+11.  `Scripting`: Para los scripts el alumnado se ha de crear una cuenta en [www.github.com](https://github.com/) en dicha cuenta ha de crear un repositorio con las siglas del módulo donde ira almacenando todos los scripts que haga durante el curso, en los apartados que se pidan script entregará el script con comentarios, capturas de la ejecución del mismo con dos ejemplos explicando lo que sucede en cada uno de ellos y enlace directo del script solicitado. Además se añadira el enlace de dicho repositorío a la wiki del CAMPUS.
 
 # 💻3. Máquinas Virtuales
 12. `Máquinas`: El alumnado es responsable de tener las 5 máquinas bases del curso, con las configuraciones básicas según sistema. Además, se han de tener copias de seguridad de las mismas en formato ova, por cualquier problema que pueda ocurrir.
